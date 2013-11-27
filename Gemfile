@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.14'
+gem 'rails', '3.2.14'      # Nicht mehr ändern, auch, wenns im Buch steht
+gem 'bootstrap-sass', '2.1'
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
